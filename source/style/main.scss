@@ -1,0 +1,9 @@
+@use "./cor.scss";
+
+body {
+background-color: cor.$cordefundo ;
+}
+
+header {
+    color: aquamarine;
+}
