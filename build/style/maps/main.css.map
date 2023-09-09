@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss","cor.scss"],"names":[],"mappings":"AAEA,KACA,iBCHc,IDMd,OACI","file":"../main.css","sourcesContent":["@use \"./cor.scss\";\r\n\r\nbody {\r\nbackground-color: cor.$cordefundo ;\r\n}\r\n\r\nheader {\r\n    color: aquamarine;\r\n}","$cordefundo : red;\r\n"]}
